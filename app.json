@@ -1,0 +1,7 @@
+{
+  "name": "DoubleBarrelv2",
+  "description": "a game site with a built in proxy",
+  "repository": "https://github.com/100123424/herokudb",
+  "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsteamuserimages-a.akamaihd.net%2Fugc%2F84842993829701049%2F075D86D1E855D7C4341AAA210122573A576CA308%2F%3Finterpolation%3Dlanczos-none%26output-format%3Djpeg%26output-quality%3D95%26fit%3Dinside%257C268%253A268%26composite-to%3D*%2C*%257C268%253A268%26background-color%3Dblack&f=1&nofb=1",
+  "keywords": ["node", "express", "static"]
+}
